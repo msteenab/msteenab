@@ -5,13 +5,13 @@ I'm a passionate software developer with a love for crafting clean and efficient
 ### 💻 What I Do
 
 - 🌐 Graduate: Wake Tech Community College 2023 
-- 🚀 2023 Graduate in Computer Programming and Software Development 
-- 📱 
+- 🚀 2023 Graduate:Computer Programming and Software Development 
+- 📱 OS: Win 11, macOS Ventura
 - 🛠️ Automation enthusiast and advocate for DevOps practices
 
 ### 🛠️ Tech Stack
 
-- **Languages:** PHP, HTML, Javascript, Python, Java
+- **Languages:** PHP, HTML/CSS, Javascript, Python, Java
 - **Frontend:** React, Angular
 - **Backend:** Node.js, Django, Flask
 - **Database:** MySQL, SQLite3
