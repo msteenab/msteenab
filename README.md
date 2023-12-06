@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for crafting clean and efficient
 - **Frontend:** React, Angular
 - **Backend:** Node.js, Django, Flask
 - **Database:** MySQL, SQLite3
-- **DevOps:** CI/CD
+- **DevOps:** Git, CI/CD, Jira
 
 ### 🌱 Currently Learning
 
